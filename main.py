@@ -1,3 +1,7 @@
+from itertools import zip_longest
+
+print(len('sdfs'))
+b=input(sasd)
 
 print("hellbo worl")
 print("belhard")
